@@ -1,2 +1,2 @@
-Customer-churn-prediction
-Predicted customer churn for Telecommunication company
+#Customer-churn-prediction
+#Predicted customer churn for Telecommunication company
